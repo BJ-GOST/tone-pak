@@ -26,7 +26,7 @@ export default function HeroCard({image, content}:HeroCardProps){
 
             <div className="w-3/4 h-full flex flex-col justify-around pl-2">
 
-                <span className="font-sm font-semibold font-sans text-primary-text">{content}</span>
+                <span className="font-xsm font-semibold font-sans text-primary-text">{content}</span>
 
             </div>
 
